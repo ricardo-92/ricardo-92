@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Ricardo Espinoza👋
 
 
 ![banner](https://github.com/user-attachments/assets/b7209679-7176-4cf8-9d35-b7b6d032b2ab)
