@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![banner](https://github.com/user-attachments/assets/b7209679-7176-4cf8-9d35-b7b6d032b2ab)
+
 <!--
 **ricardo-92/ricardo-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
